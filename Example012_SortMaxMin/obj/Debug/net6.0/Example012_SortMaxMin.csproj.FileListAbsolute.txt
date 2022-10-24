@@ -1,0 +1,15 @@
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\bin\Debug\net6.0\Example012_SortMaxMin.exe
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\bin\Debug\net6.0\Example012_SortMaxMin.deps.json
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\bin\Debug\net6.0\Example012_SortMaxMin.runtimeconfig.json
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\bin\Debug\net6.0\Example012_SortMaxMin.dll
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\bin\Debug\net6.0\Example012_SortMaxMin.pdb
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\obj\Debug\net6.0\Example012_SortMaxMin.csproj.AssemblyReference.cache
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\obj\Debug\net6.0\Example012_SortMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\obj\Debug\net6.0\Example012_SortMaxMin.AssemblyInfoInputs.cache
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\obj\Debug\net6.0\Example012_SortMaxMin.AssemblyInfo.cs
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\obj\Debug\net6.0\Example012_SortMaxMin.csproj.CoreCompileInputs.cache
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\obj\Debug\net6.0\Example012_SortMaxMin.dll
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\obj\Debug\net6.0\refint\Example012_SortMaxMin.dll
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\obj\Debug\net6.0\Example012_SortMaxMin.pdb
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\obj\Debug\net6.0\Example012_SortMaxMin.genruntimeconfig.cache
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_SortMaxMin\obj\Debug\net6.0\ref\Example012_SortMaxMin.dll
