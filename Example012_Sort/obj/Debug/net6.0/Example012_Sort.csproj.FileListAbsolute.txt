@@ -1,0 +1,15 @@
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\bin\Debug\net6.0\Example012_Sort.exe
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\bin\Debug\net6.0\Example012_Sort.deps.json
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\bin\Debug\net6.0\Example012_Sort.runtimeconfig.json
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\bin\Debug\net6.0\Example012_Sort.dll
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\bin\Debug\net6.0\Example012_Sort.pdb
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\obj\Debug\net6.0\Example012_Sort.csproj.AssemblyReference.cache
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\obj\Debug\net6.0\Example012_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\obj\Debug\net6.0\Example012_Sort.AssemblyInfoInputs.cache
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\obj\Debug\net6.0\Example012_Sort.AssemblyInfo.cs
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\obj\Debug\net6.0\Example012_Sort.csproj.CoreCompileInputs.cache
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\obj\Debug\net6.0\Example012_Sort.dll
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\obj\Debug\net6.0\refint\Example012_Sort.dll
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\obj\Debug\net6.0\Example012_Sort.pdb
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\obj\Debug\net6.0\Example012_Sort.genruntimeconfig.cache
+C:\GeekBrains\kurs3\kurs3lecture003\Example012_Sort\obj\Debug\net6.0\ref\Example012_Sort.dll
